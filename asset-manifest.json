@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Lover/static/css/main.d5461610.css",
-    "main.js": "/Lover/static/js/main.a22d7ddb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Lover/static/js/787.28cb0dcd.chunk.js",
-    "static/media/sample2.mp4": "/Lover/static/media/sample2.38a6d4db6891c6f2c24c.mp4",
-    "static/media/sample3.mp4": "/Lover/static/media/sample3.1aa8342f839e8ad4bedd.mp4",
-    "static/media/sample4.mp4": "/Lover/static/media/sample4.5f43112aafb8557c3bf7.mp4",
-    "static/media/sample1.mp4": "/Lover/static/media/sample1.b5a3b6afc72316288dbc.mp4",
-    "static/media/sample6.mp4": "/Lover/static/media/sample6.080f0f02782b1e45b045.mp4",
-    "static/media/sample5.mp4": "/Lover/static/media/sample5.adc7a5741eabe30072a5.mp4",
-    "static/media/anh6.jpg": "/Lover/static/media/anh6.3a37bc894d6f2335e439.jpg",
-    "static/media/anh5.jpg": "/Lover/static/media/anh5.492517c7ee2554034eff.jpg",
-    "static/media/anh4.jpg": "/Lover/static/media/anh4.be41cbb6bd885a42dbe4.jpg",
-    "static/media/anh3.jpg": "/Lover/static/media/anh3.0b324c0ecf08e6690c6d.jpg",
-    "index.html": "/Lover/index.html",
-    "main.d5461610.css.map": "/Lover/static/css/main.d5461610.css.map",
-    "main.a22d7ddb.js.map": "/Lover/static/js/main.a22d7ddb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Lover/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/ALY-you/static/css/main.d5461610.css",
+    "main.js": "/ALY-you/static/js/main.64e52b69.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ALY-you/static/js/787.28cb0dcd.chunk.js",
+    "static/media/sample2.mp4": "/ALY-you/static/media/sample2.38a6d4db6891c6f2c24c.mp4",
+    "static/media/sample3.mp4": "/ALY-you/static/media/sample3.1aa8342f839e8ad4bedd.mp4",
+    "static/media/sample4.mp4": "/ALY-you/static/media/sample4.5f43112aafb8557c3bf7.mp4",
+    "static/media/sample1.mp4": "/ALY-you/static/media/sample1.b5a3b6afc72316288dbc.mp4",
+    "static/media/sample6.mp4": "/ALY-you/static/media/sample6.080f0f02782b1e45b045.mp4",
+    "static/media/sample5.mp4": "/ALY-you/static/media/sample5.adc7a5741eabe30072a5.mp4",
+    "static/media/anh6.jpg": "/ALY-you/static/media/anh6.3a37bc894d6f2335e439.jpg",
+    "static/media/anh5.jpg": "/ALY-you/static/media/anh5.492517c7ee2554034eff.jpg",
+    "static/media/anh4.jpg": "/ALY-you/static/media/anh4.be41cbb6bd885a42dbe4.jpg",
+    "static/media/anh3.jpg": "/ALY-you/static/media/anh3.0b324c0ecf08e6690c6d.jpg",
+    "index.html": "/ALY-you/index.html",
+    "main.d5461610.css.map": "/ALY-you/static/css/main.d5461610.css.map",
+    "main.64e52b69.js.map": "/ALY-you/static/js/main.64e52b69.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ALY-you/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5461610.css",
-    "static/js/main.a22d7ddb.js"
+    "static/js/main.64e52b69.js"
   ]
 }
